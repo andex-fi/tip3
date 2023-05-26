@@ -1,10 +1,10 @@
 {
   "name": "tip3",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "compile": "locklift build --config locklift.config.js",
+    "compile": "npx locklift build --config locklift.config.js",
     "prepare-docs": "scripts/prepare-docs.sh"
   },
   "author": "aleksandr-hramcov <aleksandr.hramcov@gmail.com>",
