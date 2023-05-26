@@ -1,7 +1,7 @@
 pragma ton-solidity >= 0.57.0;
 
-import "./TIP3TokenRoot.tsol";
-import "./../additional/SID.tsol";
+import "./TIP3TokenRoot.sol";
+import "./../additional/SID.sol";
 
 /**
  * @dev Interface of the minimal required functionality of TIP-3 standard.

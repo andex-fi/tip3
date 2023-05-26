@@ -1,6 +1,6 @@
 pragma ton-solidity >= 0.57.0;
 
-import "./ITokenRoot.tsol";
+import "./ITokenRoot.sol";
 
 /**
  * @dev Interface extends the {ITokenRoot} interface and defines functionality

@@ -1,6 +1,6 @@
 pragma ton-solidity >= 0.57.0;
 
-import "../additional/TokenFactory.tsol";
+import "../additional/TokenFactory.sol";
 
 
 contract TestTokenFactory is TokenFactory {

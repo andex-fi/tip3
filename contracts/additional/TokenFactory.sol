@@ -3,11 +3,11 @@ pragma ton-solidity >= 0.57.0;
 pragma AbiHeader expire;
 pragma AbiHeader pubkey;
 
-import "./ITokenFactory.tsol";
-import "../libraries/TokenErrors.tsol";
-import "../libraries/TokenMsgFlag.tsol";
-import "../TokenRoot.tsol";
-import "../TokenRootUpgradeable.tsol";
+import "./ITokenFactory.sol";
+import "../libraries/TokenErrors.sol";
+import "../libraries/TokenMsgFlag.sol";
+import "../TokenRoot.sol";
+import "../TokenRootUpgradeable.sol";
 
 /**
  * @title TokenFactory

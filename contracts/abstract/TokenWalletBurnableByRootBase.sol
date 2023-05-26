@@ -3,8 +3,8 @@ pragma ton-solidity >= 0.57.0;
 pragma AbiHeader expire;
 pragma AbiHeader pubkey;
 
-import "./TokenWalletBase.tsol";
-import "../interfaces/IBurnableByRootTokenWallet.tsol";
+import "./TokenWalletBase.sol";
+import "../interfaces/IBurnableByRootTokenWallet.sol";
 
 /**
  * @dev Implementation of the {IBurnableByRootTokenWallet} interface.

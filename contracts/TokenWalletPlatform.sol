@@ -1,6 +1,6 @@
 pragma ton-solidity >= 0.57.0;
 
-import "./libraries/TokenMsgFlag.tsol";
+import "./libraries/TokenMsgFlag.sol";
 
 /**
  * @dev Theis contract provides an immutable foundation for a wallet

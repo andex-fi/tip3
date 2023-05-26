@@ -3,8 +3,8 @@ pragma ton-solidity >= 0.57.0;
 pragma AbiHeader expire;
 pragma AbiHeader pubkey;
 
-import "./TokenRootBase.tsol";
-import "../interfaces/ITransferableOwnership.tsol";
+import "./TokenRootBase.sol";
+import "../interfaces/ITransferableOwnership.sol";
 
 /**
  * @dev Implementation of the {ITransferableOwnership} interface.

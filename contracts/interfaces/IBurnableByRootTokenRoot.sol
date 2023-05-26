@@ -1,6 +1,6 @@
 pragma ton-solidity >= 0.57.0;
 
-import "./IBurnPausableTokenRoot.tsol";
+import "./IBurnPausableTokenRoot.sol";
 
 /**
  * @dev Interface for disabling the ability of the TokenRoot contract to burn

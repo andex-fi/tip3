@@ -1,6 +1,6 @@
 pragma ton-solidity >= 0.57.0;
 
-import "../structures/ICallbackParamsStructure.tsol";
+import "../structures/ICallbackParamsStructure.sol";
 
 /**
  * @dev Interface defines a contract that has functions to one-step transfer

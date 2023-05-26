@@ -1,6 +1,6 @@
 pragma ton-solidity >= 0.57.0;
 
-import "../TokenRootUpgradeable.tsol";
+import "../TokenRootUpgradeable.sol";
 
 
 contract TestTokenRootUpgradeableV2 is TokenRootUpgradeable {

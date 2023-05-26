@@ -1,7 +1,7 @@
 pragma ton-solidity >= 0.57.0;
 
-import "./TIP3TokenWallet.tsol";
-import "./../additional/SID.tsol";
+import "./TIP3TokenWallet.sol";
+import "./../additional/SID.sol";
 
 /**
  * @title TokenWallet interface.

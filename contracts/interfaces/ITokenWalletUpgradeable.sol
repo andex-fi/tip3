@@ -1,7 +1,7 @@
 pragma ton-solidity >= 0.57.0;
 
-import "./ITokenWallet.tsol";
-import "./IVersioned.tsol";
+import "./ITokenWallet.sol";
+import "./IVersioned.sol";
 
 /**
  * @dev The interface extends the {ITokenWallet} defines a set of functions for
